@@ -20,6 +20,9 @@ https://thalio-toledo.github.io/Portifolio_thalio/
 Resposividade
 :hammer: 
 
+*Nesse projeto usei o recurso da resposividade do css. se desejar abra em seu dispositivo movel e confira*  
+
+
 ## Autores
 
  [<img src="https://avatars.githubusercontent.com/u/69974271?v=4" width=115><br><sub>Thalio Toledo da Silva</sub>](https://github.com/Thalio-Toledo) 
