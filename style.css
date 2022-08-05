@@ -29,6 +29,13 @@ body {
   list-style: none;
   padding: 1rem;
 }
+.menu a {
+  text-decoration: none;
+  color: black;
+}
+.menu a:hover {
+  color: rgb(0, 136, 255);
+}
 #card {
   background-color: rgb(255, 255, 255);
   display: flex;
@@ -45,6 +52,10 @@ body {
   border-radius: 100%;
   width: 100%;
 }
+#card a {
+  text-decoration: none;
+  color: black;
+}
 
 section {
   text-align: left;
@@ -53,6 +64,27 @@ section {
 
 section h1 {
   margin-bottom: 1.2rem;
+}
+
+.projetos .projetos-cartoes {
+  display: flex;
+  flex-direction: row;
+}
+
+.projetos-cartoes .item {
+  margin: 1rem;
+  padding: 2rem;
+  border: 0.2rem solid rgb(111, 111, 111);
+}
+.projetos-cartoes img {
+  width: 20rem;
+  height: 20rem;
+}
+.projetos-cartoes .item a {
+  background-color: aquamarine;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem;
 }
 
 .cards {
@@ -98,7 +130,7 @@ section h1 {
 }
 
 .timeline-item p::after {
-  content: '10/01/2000';
+  content: '10/01/2022';
   margin: 0 auto;
   width: 10rem;
   height: 1.8rem;
