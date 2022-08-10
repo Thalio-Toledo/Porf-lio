@@ -9,3 +9,11 @@ function onScroll() {
     card.classList.remove('fix')
   }
 }
+
+ScrollReveal({
+  origin: 'top',
+  distance: '30px',
+  duration: 700
+}).reveal(`#sobre, #card, .dados, .cards, .Linguagens-de-programação,
+.tecnologias, .projetos, .Cursos
+`)
