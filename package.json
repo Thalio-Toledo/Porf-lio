@@ -1,0 +1,19 @@
+{
+  "name": "portifolio_thalio",
+  "version": "1.0.0",
+  "description": "![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalio-Toledo/Portifolio_thalio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thalio-Toledo/Portifolio_thalio/issues"
+  },
+  "homepage": "https://github.com/Thalio-Toledo/Portifolio_thalio#readme"
+}
